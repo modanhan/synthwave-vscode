@@ -23,7 +23,7 @@
       updatedThemeStyles = updatedThemeStyles.replace(/color: #569CD6;/g, "color: #569CD6;");
       
       /* replace yellow->neon purple */
-      updatedThemeStyles = updatedThemeStyles.replace(/color: #fede5d;/g, "color: #fdfdfd; text-shadow: 0 0 2px #B267E6, 0 0 3px #B267E6[NEON_BRIGHTNESS], 0 0 5px #B267E6[NEON_BRIGHTNESS], 0 0 8px #B267E6[NEON_BRIGHTNESS];");
+      updatedThemeStyles = updatedThemeStyles.replace(/color: #fede5d;/g, "color: #fdfdfd; text-shadow: 0 0 2px #f92aad, 0 0 3px #f92aad[NEON_BRIGHTNESS], 0 0 5px #f92aad[NEON_BRIGHTNESS], 0 0 8px #f92aad[NEON_BRIGHTNESS];");
       
       /* replace green */
       updatedThemeStyles = updatedThemeStyles.replace(/color: #72f1b8;/g, "color: #72f1b8; text-shadow: 0 0 2px #100c0f, 0 0 10px #257c55[NEON_BRIGHTNESS], 0 0 35px #212724[NEON_BRIGHTNESS];");
